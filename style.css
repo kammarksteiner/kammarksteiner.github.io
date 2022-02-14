@@ -1,14 +1,9 @@
-<!--- example text to remind myself how to do this
+body {
+    background-color:#0E1020;
+    color:white;
+    text-align:center;
+}
 
-h1 {
-    color:red;
-    font-family:veranda;
-    font-size:24px;
-    line-height:2em;
-    background-color:blue;
-    border-style:outset;
-    border-width:5px;
-    padding:5px;
-    }
-
---->
+p {
+    line-height:3;
+}
