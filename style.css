@@ -7,3 +7,7 @@ body {
 p {
     line-height:3;
 }
+
+img {
+    height:200px;
+}
