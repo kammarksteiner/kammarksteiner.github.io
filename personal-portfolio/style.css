@@ -1,0 +1,38 @@
+body {
+    background-color: #080914;
+    color: #ffd000;
+    text-align: left;
+    padding-left: 420px;
+    font-family: "Georgia";
+}
+
+h1 {
+  text-align: center;
+  font-size: 30px;
+}
+
+h2 {
+  text-align: center;
+  font-size: 40px;
+}
+
+.sideBar {
+    position: absolute;
+    text-align: justify;
+    top: 50px;
+    left: 20px;
+    right: 20px;
+    width: 280px;
+}
+
+.vl {
+  border-left: 1px solid #ffd000;
+  height: 100%;
+  position: absolute;
+  margin-left:-100px;
+}
+
+iframe {
+  width: 800px;
+  height: 600px;
+}
